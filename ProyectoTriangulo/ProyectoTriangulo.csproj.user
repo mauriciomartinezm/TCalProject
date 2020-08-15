@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\inetpub\wwwroot\TCalProgram\|C:\inetpub\wwwroot\publicacion\|C:\Users\mauri\Desktop\publicacion\|ftp://127.0.0.1:5600/publicacion/|ftp://127.0.0.1:5600/Publicación/</PublishUrlHistory>
+    <InstallUrlHistory>https://github.com/mauriciomartinezm/TCalProgram/|https://github.com/mauriciomartinezm/TCal/|http://192.168.56.1:2121/|http://ip.filezilla-project.org/ip.php/|http://ip.filezilla-project.org/ip.php</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

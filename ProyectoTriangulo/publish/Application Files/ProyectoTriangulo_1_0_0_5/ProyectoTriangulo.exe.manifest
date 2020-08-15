@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ProyectoTriangulo.exe" version="1.0.0.5" publicKeyToken="129716d689d96f25" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ProyectoTriangulo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ProyectoTriangulo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProyectoTriangulo.exe" size="41440">
+      <assemblyIdentity name="ProyectoTriangulo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ecllZCJ3itqvfekngs80lGon2sr3zLw94JlZglyCFyg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ProyectoTriangulo.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-D7LM0EM\Mauro" issuerKeyHash="1f52a0b924bf49486b50857f713988387445386d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fQ5erhhAOYQJw+RKXsljQQSUbfUW8GYO/lJE6CIRJ9E=</DigestValue></Reference></SignedInfo><SignatureValue>n8r8CVyfYjHdQs0kAxF6RhQX8eTsCiad+gLtEa9HVRQNPjjePScHg9GAVHccSH/5FOjVozBbfYBItv2fWPQHxM8SM2Yf/55ixR279Nlbs9CjqBMKkIlUSlT70gg1vQ0kKpB8aSHRxVOkh0fxjo0Fo47NBXryM0cRRPJ2CcZk6Q4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vALnjLVIDP6PjFwXbKqVcFC8PSonAjv9YNYg0WmpgcLwhc/FFydj3+gGPXYvP8v8aiRodO0PnDGXD+PzcHG/W1bma0ylPNkg2+7zKYEaQEiT4x64K12WazV3dbgehl7+3T2Hang+lhtCF7b4/GZ/bzG1kLkCCZ9Enz9Za6CI0s0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d1271122e84452fe0e66f016f56d94044163c95e4ae4c30984394018ae5e0e7d" Description="" Url=""><as:assemblyIdentity name="ProyectoTriangulo.exe" version="1.0.0.5" publicKeyToken="129716d689d96f25" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-D7LM0EM\Mauro</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>tHX+tsUg56VMW7M5MP5VXR+tT64JFGQWs6tkT0ayE/U=</DigestValue></Reference></SignedInfo><SignatureValue>Clt9JW20gKV87xTdEDhYo36f0by7T0GlK11W/KZ7PxmX8Fjz48H2sPN75sZXnntEDm+R0MnuIF6BZkm2gFT9oY8lhEeVtH5+VPOKp4B/b2W//tj9a8z3PETE2NJ6JNbN/qA/6yVi9pdDwhBWiVO5Z56pgORVVlUTzStnCrYOfjI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vALnjLVIDP6PjFwXbKqVcFC8PSonAjv9YNYg0WmpgcLwhc/FFydj3+gGPXYvP8v8aiRodO0PnDGXD+PzcHG/W1bma0ylPNkg2+7zKYEaQEiT4x64K12WazV3dbgehl7+3T2Hang+lhtCF7b4/GZ/bzG1kLkCCZ9Enz9Za6CI0s0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQGdYAxrhzpLZNFlVEJMkB5jANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEQANwBMAE0AMABFAE0AXABNAGEAdQByAG8wHhcNMjAwODA4MTY1NjA0WhcNMjEwODA4MjI1NjA0WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEQANwBMAE0AMABFAE0AXABNAGEAdQByAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALwC54y1SAz+j4xcF2yqlXBQvD0qJwI7/WDWINFpqYHC8IXPxRcnY9/oBj12Lz/L/GokaHTtD5wxlw/j83Bxv1tW5mtMpTzZINvu8ymBGkBIk+MeuCtdlms1d3W4HoZe/t09h2p4PpYbQhe2+Pxmf28xtZC5AgmfRJ8/WWugiNLNAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAhwQo9LJVZmd4QY46ot3S9LWJGmnlIPkRIiSdqNJLlokkDy3z5Pp2KA06pK90w0UNiShbcdp0JMcCu/+TSQywefdJYgPoRyFS1jDr9eQd9p15cHnbl7YL/9llFcU5DQ4bYvKRJKjfcOTiCRx1rTgRrzbwzOF3a38CuUi3aoz2sa0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

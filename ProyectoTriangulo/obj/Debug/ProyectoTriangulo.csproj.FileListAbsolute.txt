@@ -1,0 +1,66 @@
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\bin\Debug\ProyectoTriangulo.exe.config
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\bin\Debug\ProyectoTriangulo.exe
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\bin\Debug\ProyectoTriangulo.pdb
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csprojAssemblyReference.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Properties.Resources.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csproj.GenerateResource.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csproj.CoreCompileInputs.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.exe
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.pdb
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Triángulos.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Inicio.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csprojAssemblyReference.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Triángulos.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Inicio.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Properties.Resources.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csproj.GenerateResource.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csproj.CoreCompileInputs.cache
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Build.Framework.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.Build.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Collections.Immutable.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Memory.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Numerics.Vectors.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\System.Buffers.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.Data.Tools.Components.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.csproj.CopyComplete
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\ProyectoTriangulo.Inicio.aa-ER.resources
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Instalador TCal.exe.config
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Instalador TCal.exe.manifest
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Instalador TCal.application
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Instalador TCal.exe
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\Instalador TCal.pdb
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\bin\Debug\aa-ER\Instalador TCal.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\Instalador TCal.exe.config
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\aa-ER\Instalador TCal.resources.dll
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\Instalador TCal.exe.manifest
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\Instalador TCal.application
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\Instalador TCal.exe
+D:\Programas y archivos\Proyectos Programación Propios\ProyectoTriangulo - copia de seguridad\ProyectoTriangulo\obj\Debug\Instalador TCal.pdb
